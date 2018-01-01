@@ -1,0 +1,23 @@
+{
+  "name": "adminpanelmayank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maynkmohta/adminpanelmayank.git"
+  },
+  "author": "mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maynkmohta/adminpanelmayank/issues"
+  },
+  "homepage": "https://github.com/Maynkmohta/adminpanelmayank#readme"
+}
